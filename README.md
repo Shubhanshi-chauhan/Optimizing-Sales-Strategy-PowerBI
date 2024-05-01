@@ -10,6 +10,7 @@
 - [x] PowerBI Desktop
 - [x] EXCEL
 - [x] DAX Language
+- [x] Python EDA
 
 The primary objective of this project is to conduct an integrated analysis of multidimensional datasets to optimize sales strategies and enhance customer experience. By synthesizing insights from sales data, customer feedback, operational metrics, and market dynamics, the aim is to identify actionable recommendations that drive revenue growth, improve customer satisfaction, and streamline operational processes.
 
